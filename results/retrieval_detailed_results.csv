@@ -1,0 +1,31 @@
+question,expected_source,k,retrieved_sources,precision_at_k,recall_at_k,reciprocal_rank
+What are the IT helpdesk operating hours?,it_support_policy.txt,1,it_support_policy.txt,1.0,1.0,1.0
+What are the IT helpdesk operating hours?,it_support_policy.txt,3,it_support_policy.txt | it_support_policy.txt | it_support_policy.txt,1.0,1.0,1.0
+What are the IT helpdesk operating hours?,it_support_policy.txt,5,it_support_policy.txt | it_support_policy.txt | it_support_policy.txt | network_policy.txt | data_security_policy.txt,0.6,1.0,1.0
+How many incorrect password attempts cause an account lockout?,it_support_policy.txt,1,it_support_policy.txt,1.0,1.0,1.0
+How many incorrect password attempts cause an account lockout?,it_support_policy.txt,3,it_support_policy.txt | it_support_policy.txt | network_policy.txt,0.6666666666666666,1.0,1.0
+How many incorrect password attempts cause an account lockout?,it_support_policy.txt,5,it_support_policy.txt | it_support_policy.txt | network_policy.txt | data_security_policy.txt | network_policy.txt,0.4,1.0,1.0
+What is the initial response time for high-priority issues?,it_support_policy.txt,1,it_support_policy.txt,1.0,1.0,1.0
+What is the initial response time for high-priority issues?,it_support_policy.txt,3,it_support_policy.txt | it_support_policy.txt | network_policy.txt,0.6666666666666666,1.0,1.0
+What is the initial response time for high-priority issues?,it_support_policy.txt,5,it_support_policy.txt | it_support_policy.txt | network_policy.txt | it_support_policy.txt | data_security_policy.txt,0.6,1.0,1.0
+How can employees request software installation?,it_support_policy.txt,1,it_support_policy.txt,1.0,1.0,1.0
+How can employees request software installation?,it_support_policy.txt,3,it_support_policy.txt | data_security_policy.txt | data_security_policy.txt,0.3333333333333333,1.0,1.0
+How can employees request software installation?,it_support_policy.txt,5,it_support_policy.txt | data_security_policy.txt | data_security_policy.txt | network_policy.txt | network_policy.txt,0.2,1.0,1.0
+Which Wi-Fi network should personal devices use?,network_policy.txt,1,network_policy.txt,1.0,1.0,1.0
+Which Wi-Fi network should personal devices use?,network_policy.txt,3,network_policy.txt | network_policy.txt | network_policy.txt,1.0,1.0,1.0
+Which Wi-Fi network should personal devices use?,network_policy.txt,5,network_policy.txt | network_policy.txt | network_policy.txt | data_security_policy.txt | network_policy.txt,0.8,1.0,1.0
+What authentication is required for remote VPN access?,network_policy.txt,1,network_policy.txt,1.0,1.0,1.0
+What authentication is required for remote VPN access?,network_policy.txt,3,network_policy.txt | network_policy.txt | data_security_policy.txt,0.6666666666666666,1.0,1.0
+What authentication is required for remote VPN access?,network_policy.txt,5,network_policy.txt | network_policy.txt | data_security_policy.txt | data_security_policy.txt | network_policy.txt,0.6,1.0,1.0
+What should employees do if they receive a suspicious email?,network_policy.txt,1,data_security_policy.txt,0.0,0.0,0.0
+What should employees do if they receive a suspicious email?,network_policy.txt,3,data_security_policy.txt | network_policy.txt | network_policy.txt,0.6666666666666666,1.0,0.5
+What should employees do if they receive a suspicious email?,network_policy.txt,5,data_security_policy.txt | network_policy.txt | network_policy.txt | data_security_policy.txt | it_support_policy.txt,0.4,1.0,0.5
+What should employees do if a company device is lost?,data_security_policy.txt,1,data_security_policy.txt,1.0,1.0,1.0
+What should employees do if a company device is lost?,data_security_policy.txt,3,data_security_policy.txt | network_policy.txt | data_security_policy.txt,0.6666666666666666,1.0,1.0
+What should employees do if a company device is lost?,data_security_policy.txt,5,data_security_policy.txt | network_policy.txt | data_security_policy.txt | network_policy.txt | it_support_policy.txt,0.4,1.0,1.0
+Where should important work files be stored?,data_security_policy.txt,1,data_security_policy.txt,1.0,1.0,1.0
+Where should important work files be stored?,data_security_policy.txt,3,data_security_policy.txt | data_security_policy.txt | network_policy.txt,0.6666666666666666,1.0,1.0
+Where should important work files be stored?,data_security_policy.txt,5,data_security_policy.txt | data_security_policy.txt | network_policy.txt | data_security_policy.txt | network_policy.txt,0.6,1.0,1.0
+How should confidential company information be shared?,data_security_policy.txt,1,data_security_policy.txt,1.0,1.0,1.0
+How should confidential company information be shared?,data_security_policy.txt,3,data_security_policy.txt | data_security_policy.txt | data_security_policy.txt,1.0,1.0,1.0
+How should confidential company information be shared?,data_security_policy.txt,5,data_security_policy.txt | data_security_policy.txt | data_security_policy.txt | network_policy.txt | network_policy.txt,0.6,1.0,1.0

@@ -1,0 +1,26 @@
+
+NETWORK AND INTERNET USAGE POLICY
+
+1. Wi-Fi Access
+Employees can connect to the corporate Wi-Fi network using their company credentials.
+Personal devices must connect to the guest Wi-Fi network.
+Employees must not share corporate Wi-Fi passwords with unauthorized individuals.
+
+2. VPN Access
+Employees working remotely must connect to the company VPN to access internal resources.
+Multi-factor authentication is required when connecting to the VPN.
+Employees should disconnect from the VPN when their work session ends.
+
+3. Internet Usage
+The company internet connection is intended primarily for work-related activities.
+Accessing malicious websites or downloading unauthorized files is prohibited.
+Employees must report suspicious links or phishing messages to the IT security team.
+
+4. Network Issues
+Employees experiencing network connectivity problems should restart their device and check their Wi-Fi connection.
+If the issue continues, they should submit a support ticket to the IT helpdesk.
+Critical network outages must be reported immediately.
+
+5. Data Security
+Employees must not transfer confidential company information through personal email accounts.
+Sensitive files should only be shared through company-approved platforms.

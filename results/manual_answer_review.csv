@@ -1,0 +1,241 @@
+question,reference_answer,retrieved_context,generated_answer
+What are the IT helpdesk operating hours?,"Monday to Friday, 9:00 AM to 6:00 PM. The helpdesk is closed on weekends and public holidays.","IT SUPPORT POLICY
+
+1. Support Hours
+The IT helpdesk operates Monday to Friday, from 9:00 AM to 6:00 PM.
+The helpdesk is closed on Saturdays, Sundays, and public holidays.
+
+2. Password Reset
+Employees who forget their account password can request a password reset through the IT helpdesk portal.
+For security reasons, employees must verify their identity before a password reset is approved.
+Temporary passwords must be changed immediately after the first login.
+
+3. Account Lockout
+An account is automatically locked after five consecutive incorrect password attempts.
+Employees must contact the IT helpdesk to unlock their accounts.
+The helpdesk verifies the employee's identity before unlocking an account.
+
+4. Response Time
+High-priority issues receive an initial response within two business hours.
+Medium-priority issues receive an initial response within eight business hours.
+Low-priority issues receive an initial response within two business days.
+
+5. Software Installation
+Employees must submit a software installation request through the IT helpdesk portal.
+Only software approved by the organization's IT department may be installed on company devices.","The IT helpdesk operates Monday to Friday, from 9:00 AM to 6:00 PM."
+How many incorrect password attempts cause an account lockout?,An account is automatically locked after five consecutive incorrect password attempts.,"3. Account Lockout
+An account is automatically locked after five consecutive incorrect password attempts.
+Employees must contact the IT helpdesk to unlock their accounts.
+The helpdesk verifies the employee's identity before unlocking an account.
+
+4. Response Time
+High-priority issues receive an initial response within two business hours.
+Medium-priority issues receive an initial response within eight business hours.
+Low-priority issues receive an initial response within two business days.
+
+IT SUPPORT POLICY
+
+1. Support Hours
+The IT helpdesk operates Monday to Friday, from 9:00 AM to 6:00 PM.
+The helpdesk is closed on Saturdays, Sundays, and public holidays.
+
+2. Password Reset
+Employees who forget their account password can request a password reset through the IT helpdesk portal.
+For security reasons, employees must verify their identity before a password reset is approved.
+Temporary passwords must be changed immediately after the first login.
+
+4. Network Issues
+Employees experiencing network connectivity problems should restart their device and check their Wi-Fi connection.
+If the issue continues, they should submit a support ticket to the IT helpdesk.
+Critical network outages must be reported immediately.
+
+5. Data Security
+Employees must not transfer confidential company information through personal email accounts.
+Sensitive files should only be shared through company-approved platforms.",An account is automatically locked after five consecutive incorrect password attempts.
+What is the initial response time for high-priority issues?,High-priority issues receive an initial response within two business hours.,"3. Account Lockout
+An account is automatically locked after five consecutive incorrect password attempts.
+Employees must contact the IT helpdesk to unlock their accounts.
+The helpdesk verifies the employee's identity before unlocking an account.
+
+4. Response Time
+High-priority issues receive an initial response within two business hours.
+Medium-priority issues receive an initial response within eight business hours.
+Low-priority issues receive an initial response within two business days.
+
+IT SUPPORT POLICY
+
+1. Support Hours
+The IT helpdesk operates Monday to Friday, from 9:00 AM to 6:00 PM.
+The helpdesk is closed on Saturdays, Sundays, and public holidays.
+
+2. Password Reset
+Employees who forget their account password can request a password reset through the IT helpdesk portal.
+For security reasons, employees must verify their identity before a password reset is approved.
+Temporary passwords must be changed immediately after the first login.
+
+4. Network Issues
+Employees experiencing network connectivity problems should restart their device and check their Wi-Fi connection.
+If the issue continues, they should submit a support ticket to the IT helpdesk.
+Critical network outages must be reported immediately.
+
+5. Data Security
+Employees must not transfer confidential company information through personal email accounts.
+Sensitive files should only be shared through company-approved platforms.",The initial response time for high-priority issues is within two business hours.
+How can employees request software installation?,Employees must submit a software installation request through the IT helpdesk portal. Only IT-approved software may be installed.,"5. Software Installation
+Employees must submit a software installation request through the IT helpdesk portal.
+Only software approved by the organization's IT department may be installed on company devices.
+
+4. Lost Devices
+Employees must immediately report lost or stolen company devices to the IT helpdesk.
+The IT team may remotely disable access to company accounts to protect company information.
+
+5. Data Sharing
+Confidential company information must only be shared with authorized recipients.
+Employees must use approved company platforms when sharing sensitive files.
+
+2. Data Backup
+Important work files must be stored on company-approved storage platforms.
+Employees should not rely on personal USB drives for storing important company data.
+The IT department performs regular backups of company systems.
+
+3. Phishing Prevention
+Employees must not open suspicious email attachments or click unknown links.
+Suspicious emails must be reported to the IT security team.
+Employees should never share passwords or verification codes through email.",Employees can request software installation through the IT helpdesk portal.
+Which Wi-Fi network should personal devices use?,Personal devices must connect to the guest Wi-Fi network.,"NETWORK AND INTERNET USAGE POLICY
+
+1. Wi-Fi Access
+Employees can connect to the corporate Wi-Fi network using their company credentials.
+Personal devices must connect to the guest Wi-Fi network.
+Employees must not share corporate Wi-Fi passwords with unauthorized individuals.
+
+4. Network Issues
+Employees experiencing network connectivity problems should restart their device and check their Wi-Fi connection.
+If the issue continues, they should submit a support ticket to the IT helpdesk.
+Critical network outages must be reported immediately.
+
+5. Data Security
+Employees must not transfer confidential company information through personal email accounts.
+Sensitive files should only be shared through company-approved platforms.
+
+3. Internet Usage
+The company internet connection is intended primarily for work-related activities.
+Accessing malicious websites or downloading unauthorized files is prohibited.
+Employees must report suspicious links or phishing messages to the IT security team.",Personal devices should use the guest Wi-Fi network.
+What authentication is required for remote VPN access?,Multi-factor authentication is required when connecting to the company VPN.,"2. VPN Access
+Employees working remotely must connect to the company VPN to access internal resources.
+Multi-factor authentication is required when connecting to the VPN.
+Employees should disconnect from the VPN when their work session ends.
+
+NETWORK AND INTERNET USAGE POLICY
+
+1. Wi-Fi Access
+Employees can connect to the corporate Wi-Fi network using their company credentials.
+Personal devices must connect to the guest Wi-Fi network.
+Employees must not share corporate Wi-Fi passwords with unauthorized individuals.
+
+DATA SECURITY POLICY
+
+1. Data Classification
+Company information is classified as Public, Internal, Confidential, or Restricted.
+Employees must handle information according to its classification.
+Confidential and Restricted information must only be accessed by authorized employees.",Multi-factor authentication is required for remote VPN access.
+What should employees do if they receive a suspicious email?,They must avoid suspicious attachments and unknown links and report the email to the IT security team.,"2. Data Backup
+Important work files must be stored on company-approved storage platforms.
+Employees should not rely on personal USB drives for storing important company data.
+The IT department performs regular backups of company systems.
+
+3. Phishing Prevention
+Employees must not open suspicious email attachments or click unknown links.
+Suspicious emails must be reported to the IT security team.
+Employees should never share passwords or verification codes through email.
+
+3. Internet Usage
+The company internet connection is intended primarily for work-related activities.
+Accessing malicious websites or downloading unauthorized files is prohibited.
+Employees must report suspicious links or phishing messages to the IT security team.
+
+4. Network Issues
+Employees experiencing network connectivity problems should restart their device and check their Wi-Fi connection.
+If the issue continues, they should submit a support ticket to the IT helpdesk.
+Critical network outages must be reported immediately.
+
+5. Data Security
+Employees must not transfer confidential company information through personal email accounts.
+Sensitive files should only be shared through company-approved platforms.",Employees should report suspicious emails to the IT security team.
+What should employees do if a company device is lost?,They must immediately report the lost or stolen device to the IT helpdesk.,"4. Lost Devices
+Employees must immediately report lost or stolen company devices to the IT helpdesk.
+The IT team may remotely disable access to company accounts to protect company information.
+
+5. Data Sharing
+Confidential company information must only be shared with authorized recipients.
+Employees must use approved company platforms when sharing sensitive files.
+
+4. Network Issues
+Employees experiencing network connectivity problems should restart their device and check their Wi-Fi connection.
+If the issue continues, they should submit a support ticket to the IT helpdesk.
+Critical network outages must be reported immediately.
+
+5. Data Security
+Employees must not transfer confidential company information through personal email accounts.
+Sensitive files should only be shared through company-approved platforms.
+
+2. Data Backup
+Important work files must be stored on company-approved storage platforms.
+Employees should not rely on personal USB drives for storing important company data.
+The IT department performs regular backups of company systems.
+
+3. Phishing Prevention
+Employees must not open suspicious email attachments or click unknown links.
+Suspicious emails must be reported to the IT security team.
+Employees should never share passwords or verification codes through email.",Employees should immediately report lost or stolen company devices to the IT helpdesk.
+Where should important work files be stored?,Important work files must be stored on company-approved storage platforms.,"2. Data Backup
+Important work files must be stored on company-approved storage platforms.
+Employees should not rely on personal USB drives for storing important company data.
+The IT department performs regular backups of company systems.
+
+3. Phishing Prevention
+Employees must not open suspicious email attachments or click unknown links.
+Suspicious emails must be reported to the IT security team.
+Employees should never share passwords or verification codes through email.
+
+4. Lost Devices
+Employees must immediately report lost or stolen company devices to the IT helpdesk.
+The IT team may remotely disable access to company accounts to protect company information.
+
+5. Data Sharing
+Confidential company information must only be shared with authorized recipients.
+Employees must use approved company platforms when sharing sensitive files.
+
+4. Network Issues
+Employees experiencing network connectivity problems should restart their device and check their Wi-Fi connection.
+If the issue continues, they should submit a support ticket to the IT helpdesk.
+Critical network outages must be reported immediately.
+
+5. Data Security
+Employees must not transfer confidential company information through personal email accounts.
+Sensitive files should only be shared through company-approved platforms.",Important work files should be stored on company-approved storage platforms. Employees should not rely on personal USB drives for storing important company data.
+How should confidential company information be shared?,It must only be shared with authorized recipients through company-approved platforms.,"DATA SECURITY POLICY
+
+1. Data Classification
+Company information is classified as Public, Internal, Confidential, or Restricted.
+Employees must handle information according to its classification.
+Confidential and Restricted information must only be accessed by authorized employees.
+
+4. Lost Devices
+Employees must immediately report lost or stolen company devices to the IT helpdesk.
+The IT team may remotely disable access to company accounts to protect company information.
+
+5. Data Sharing
+Confidential company information must only be shared with authorized recipients.
+Employees must use approved company platforms when sharing sensitive files.
+
+2. Data Backup
+Important work files must be stored on company-approved storage platforms.
+Employees should not rely on personal USB drives for storing important company data.
+The IT department performs regular backups of company systems.
+
+3. Phishing Prevention
+Employees must not open suspicious email attachments or click unknown links.
+Suspicious emails must be reported to the IT security team.
+Employees should never share passwords or verification codes through email.",Confidential company information must only be shared with authorized recipients. Employees must use approved company platforms when sharing sensitive files.

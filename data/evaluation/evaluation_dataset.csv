@@ -1,0 +1,12 @@
+
+question,reference_answer,source_document
+"What are the IT helpdesk operating hours?","Monday to Friday, 9:00 AM to 6:00 PM. The helpdesk is closed on weekends and public holidays.","it_support_policy.txt"
+"How many incorrect password attempts cause an account lockout?","An account is automatically locked after five consecutive incorrect password attempts.","it_support_policy.txt"
+"What is the initial response time for high-priority issues?","High-priority issues receive an initial response within two business hours.","it_support_policy.txt"
+"How can employees request software installation?","Employees must submit a software installation request through the IT helpdesk portal. Only IT-approved software may be installed.","it_support_policy.txt"
+"Which Wi-Fi network should personal devices use?","Personal devices must connect to the guest Wi-Fi network.","network_policy.txt"
+"What authentication is required for remote VPN access?","Multi-factor authentication is required when connecting to the company VPN.","network_policy.txt"
+"What should employees do if they receive a suspicious email?","They must avoid suspicious attachments and unknown links and report the email to the IT security team.","network_policy.txt"
+"What should employees do if a company device is lost?","They must immediately report the lost or stolen device to the IT helpdesk.","data_security_policy.txt"
+"Where should important work files be stored?","Important work files must be stored on company-approved storage platforms.","data_security_policy.txt"
+"How should confidential company information be shared?","It must only be shared with authorized recipients through company-approved platforms.","data_security_policy.txt"

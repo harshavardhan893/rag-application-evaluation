@@ -1,0 +1,25 @@
+
+DATA SECURITY POLICY
+
+1. Data Classification
+Company information is classified as Public, Internal, Confidential, or Restricted.
+Employees must handle information according to its classification.
+Confidential and Restricted information must only be accessed by authorized employees.
+
+2. Data Backup
+Important work files must be stored on company-approved storage platforms.
+Employees should not rely on personal USB drives for storing important company data.
+The IT department performs regular backups of company systems.
+
+3. Phishing Prevention
+Employees must not open suspicious email attachments or click unknown links.
+Suspicious emails must be reported to the IT security team.
+Employees should never share passwords or verification codes through email.
+
+4. Lost Devices
+Employees must immediately report lost or stolen company devices to the IT helpdesk.
+The IT team may remotely disable access to company accounts to protect company information.
+
+5. Data Sharing
+Confidential company information must only be shared with authorized recipients.
+Employees must use approved company platforms when sharing sensitive files.

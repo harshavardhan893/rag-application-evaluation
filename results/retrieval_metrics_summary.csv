@@ -1,0 +1,4 @@
+k,mean_precision_at_k,mean_recall_at_k,mean_reciprocal_rank
+1,0.9,0.9,0.9
+3,0.7333333333333333,1.0,0.95
+5,0.5199999999999999,1.0,0.95

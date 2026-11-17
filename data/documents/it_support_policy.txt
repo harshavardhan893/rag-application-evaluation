@@ -1,0 +1,25 @@
+
+IT SUPPORT POLICY
+
+1. Support Hours
+The IT helpdesk operates Monday to Friday, from 9:00 AM to 6:00 PM.
+The helpdesk is closed on Saturdays, Sundays, and public holidays.
+
+2. Password Reset
+Employees who forget their account password can request a password reset through the IT helpdesk portal.
+For security reasons, employees must verify their identity before a password reset is approved.
+Temporary passwords must be changed immediately after the first login.
+
+3. Account Lockout
+An account is automatically locked after five consecutive incorrect password attempts.
+Employees must contact the IT helpdesk to unlock their accounts.
+The helpdesk verifies the employee's identity before unlocking an account.
+
+4. Response Time
+High-priority issues receive an initial response within two business hours.
+Medium-priority issues receive an initial response within eight business hours.
+Low-priority issues receive an initial response within two business days.
+
+5. Software Installation
+Employees must submit a software installation request through the IT helpdesk portal.
+Only software approved by the organization's IT department may be installed on company devices.

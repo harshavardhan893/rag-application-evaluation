@@ -1,0 +1,10 @@
+﻿.env
+.venv/
+.venv-old/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Generated evaluation and vector files
+results/answer_quality_results.csv
+vector_store/
